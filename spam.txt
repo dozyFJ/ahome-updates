@@ -1,0 +1,5 @@
+# ahome spam list. One entry per line:
+#   380671234567|Label     exact number (matched by its last 9 digits) with a caller label
+#   0671234567             national number, label "Spam"
+#   38044*                 every number starting with these digits
+# Add real entries here and publish; phones fetch this file every 12 hours.

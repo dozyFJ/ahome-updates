@@ -1,1 +1,1 @@
-{"versionCode": 29895394, "versionName": "0.1.29895394", "apk": "ahome.apk", "notes": "Fixed desktop editor layout and touch targets; editor controls fit on screen and hide after Done; removed duplicate title in the left panel; full live notification list, widget resizing, folder editor, inline translator, Ocean and grid defaults."}
+{"versionCode": 29895760, "versionName": "0.1.29895760", "apk": "ahome.apk", "notes": "AOS theme provider: other AOS apps (Telegram client) now follow the launcher theme - accent, light/dark and wallpaper colours."}
